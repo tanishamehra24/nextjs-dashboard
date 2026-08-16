@@ -1,7 +1,7 @@
 "use client";
-import {CustomerField} from "@/app/lib/definitions";
+import {CustomerField} from "@/app/seed/lib/definitions";
 import Link from "next/link";
-import {createInvoice, State} from "@/app/lib/actions";
+import {createInvoice, State} from "@/app/seed/lib/actions";
 import {
   CheckIcon,
   ClockIcon,
