@@ -5,6 +5,7 @@ allowBuilds:
   bcrypt: true
   es5-ext: set this to true or false
   sharp: true
+  unrs-resolver: true
 minimumReleaseAge: 2880
 minimumReleaseAgeExclude:
   - baseline-browser-mapping@2.11.8
